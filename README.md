@@ -2,6 +2,19 @@
 Convert .pcap files into .hccapx files in PowerShell
 
 The script requires:
-Hashcat
-cap2hccapx
+
+Hashcat:
+
+cap2hccapx:
+
 PowerShell 5.1 or newer
+
+Original code by Fatmann Makes & Breaks: 
+
+YouTube:
+
+https://www.youtube.com/@fatmannmakesbreaks498
+
+Pastebin:
+
+https://pastebin.com/crWJ5PF4
