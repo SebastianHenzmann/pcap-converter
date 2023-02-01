@@ -14,7 +14,7 @@ PowerShell 5.1 or newer
 
 The "Hashcat" folder must look something like this: 
 
-![Hashcat_Folder_Layout - Kopie](https://user-images.githubusercontent.com/100124568/215346760-a5f2e08e-ed21-462d-8674-147631f8cd38.png)
+![image](https://user-images.githubusercontent.com/100124568/216103090-c8422ff5-47c5-490f-8157-f69a90bd9d36.png)
 
 # Original code by Fatmann Makes & Breaks: 
 
